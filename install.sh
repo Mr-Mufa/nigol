@@ -10,4 +10,5 @@ apt-get update
 pkg upgrade
 pkg install cowsay
 clear
-sh login.sh
+cd nigol
+ls
