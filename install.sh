@@ -10,5 +10,4 @@ apt-get update
 pkg upgrade
 pkg install cowsay
 clear
-cd nigol
 ls
